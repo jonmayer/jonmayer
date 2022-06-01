@@ -2,6 +2,7 @@
 - 👀 I’m interested in Rust, C++, GPUs, SystemVerilog, RPGs, electronic music, OG cryptography, fuzzing, and embedded systems.
 - 🌱 I’m currently learning Rust and three.js.
 - 💞️ I’m looking to collaborate on bringing sane gun regulations to America.
+- 💸 My professional identity is @jonathan-enf
 
 <!---
 jonmayer/jonmayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
